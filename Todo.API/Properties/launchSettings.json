@@ -25,6 +25,15 @@
       },
       "publishAllPorts": true,
       "useSSL": true
+    },
+    "Todo.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:1129;http://localhost:1128",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
     }
   },
   "$schema": "https://json.schemastore.org/launchsettings.json"
